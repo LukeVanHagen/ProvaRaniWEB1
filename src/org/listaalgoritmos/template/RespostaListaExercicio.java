@@ -29,7 +29,7 @@ public class RespostaListaExercicio {
 	 * Como resultado, o método deve retornar a área calculada.
 	 * @param baseMaior
 	 * @param baseMenor
-	 * @param altura
+	 * @param alturaS
 	 * @return areaTrapezio
 	 */
 	public static float calcularAreaTrapezio(float baseMaior, float baseMenor, float altura) 
